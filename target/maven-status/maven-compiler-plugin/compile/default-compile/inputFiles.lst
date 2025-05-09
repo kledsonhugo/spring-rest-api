@@ -1,0 +1,9 @@
+/home/kledsonbasso/source/spring-rest-api/src/main/java/com/example/springrestapi/service/InvestimentoService.java
+/home/kledsonbasso/source/spring-rest-api/src/main/java/com/example/springrestapi/SpringRestApiApplication.java
+/home/kledsonbasso/source/spring-rest-api/src/main/java/com/example/springrestapi/config/SecurityConfig.java
+/home/kledsonbasso/source/spring-rest-api/src/main/java/com/example/springrestapi/service/ClienteService.java
+/home/kledsonbasso/source/spring-rest-api/src/main/java/com/example/springrestapi/exception/ClienteNaoEncontradoException.java
+/home/kledsonbasso/source/spring-rest-api/src/main/java/com/example/springrestapi/config/OpenApiConfig.java
+/home/kledsonbasso/source/spring-rest-api/src/main/java/com/example/springrestapi/model/Cliente.java
+/home/kledsonbasso/source/spring-rest-api/src/main/java/com/example/springrestapi/model/Investimento.java
+/home/kledsonbasso/source/spring-rest-api/src/main/java/com/example/springrestapi/controller/ClienteController.java
